@@ -1,5 +1,5 @@
 # welcome
-# hello Canada
+Hello Canada
 
 # bienvenue
-# Bonjour Canada
+Bonjour Canada
