@@ -18,7 +18,7 @@ language of your choice (English or French).
 
 # Bienvenue
 
-Beinvenue au dépôt Canada-ca dans lequel vous pouvez commenter les idées et les méthodes
+Bienvenue au dépôt Canada-ca dans lequel vous pouvez commenter les idées et les méthodes
 de prototypage visant à mobiliser les Canadiens et contribuer à l’élaboration
 ouverte de politiques publiques.
 
