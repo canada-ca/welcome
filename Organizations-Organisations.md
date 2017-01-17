@@ -3,8 +3,6 @@
 
 [Government of Canada - Gouvernement du Canada](https://github.com/canada-ca)
 
-[Government of Canada - Gouvernement du Canada](https://github.com/goc)
-
 
 [Apogy - Canadian Space Agency - Agence spatiale canadienne](https://bitbucket.org/apogy/)
 
@@ -16,7 +14,7 @@
 
 [Natural Resources Canada -  Ressources naturelles Canada](https://github.com/nrcan)
 
-[Public Services and Procurement Canada - Services publics et Approvisionnement Canada](https://github.com/pwgsc)
+[Public Services and Procurement Canada - Services publics et Approvisionnement Canada](https://github.com/pspc-spac)
 
 [Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada](https://github.com/tbs-sct)
 
