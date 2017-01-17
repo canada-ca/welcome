@@ -19,3 +19,5 @@
 [Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada](https://github.com/tbs-sct)
 
 [Web Experience Toolkit (WET) - Boîte à outils de l’expérience Web (BOEW)](https://github.com/wet-boew)
+
+[Open Data Initiative - Initiative sur les données ouvertes](https://github.com/open-data/)
