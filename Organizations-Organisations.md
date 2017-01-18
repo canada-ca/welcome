@@ -1,8 +1,7 @@
-## Government of Canada open source software organizations
-## Organisations de logiciels libres du Gouvernement du Canada
+## Government of Canada open source software organizations on Github
+## Organisations de logiciels libres du Gouvernement du Canada sur Github
 
 [Government of Canada - Gouvernement du Canada](https://github.com/canada-ca)
-
 
 [Apogy - Canadian Space Agency - Agence spatiale canadienne](https://bitbucket.org/apogy/)
 
