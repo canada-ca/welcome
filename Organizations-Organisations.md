@@ -15,7 +15,7 @@
 
 [Public Services and Procurement Canada - Services publics et Approvisionnement Canada](https://github.com/pspc-spac)
 
-[Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada](https://github.com/tbs-sct)
+[GC Tools - Outils GC](https://github.com/gctools-outilsgc)
 
 [Web Experience Toolkit (WET) - Boîte à outils de l’expérience Web (BOEW)](https://github.com/wet-boew)
 
