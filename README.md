@@ -15,6 +15,8 @@ be private citizens. We welcome everyone’s participation.
 You are invited to participate in the Canadian official
 language of your choice (English or French).
 
+Interested in other Canadian Government projects on GitHub? Check out the [growing list](https://government.github.com/community/#canada).
+
 
 # Bienvenue
 
