@@ -36,4 +36,4 @@ gouvernement ou sont des particuliers. La participation de tous est appréciée.
 Vous pouvez participer dans l’une ou l’autre des langues officielle s du Canada (le
 français et l’anglais).
 
-
+Vous vous intéressez à d'autres projets du gouvernement canadien dans GitHub? Consultez [la list](https://government.github.com/community/#canada).
