@@ -17,6 +17,7 @@ language of your choice (English or French).
 
 Interested in other Canadian Government projects on GitHub? Check out the [growing list](https://government.github.com/community/#canada).
 
+The Government of Canada's Policy on Acceptable Network and Device Use: (https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122)
 
 # Bienvenue
 
@@ -37,3 +38,5 @@ Vous pouvez participer dans l’une ou l’autre des langues officielle s du Can
 français et l’anglais).
 
 Vous vous intéressez à d'autres projets du gouvernement canadien dans GitHub? Consultez [la list](https://government.github.com/community/#canada).
+
+Le Gouvernment du Canada's Politique sur l'utilisation acceptable des dispositifs et des réseaux: (https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27122)
