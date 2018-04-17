@@ -36,3 +36,15 @@ Owner level:
 
 Member level – who can get or be granted this level of membership?
 (Criteria for granting members access, archiving members and inviting outside collaborators into the organization)
+
+## Protocols
+
+This section is for recommended processes related to participating in this GitHub organization.
+
+### Onboarding to GitHub Org
+
+**Audience:** New Members
+
+1. Accept the invitation from the [GitHub org profile page](https://github.com/canada-ca).
+1. Consider changing your membership visibility to _Public_ (from _Private_) on our [People page](https://github.com/orgs/canada-ca/people).
+1. Review the [GitHub Org Management Plan](OrganizationMangagementPlan.md).
