@@ -20,6 +20,9 @@ Management
 * Bilingual
 * Work in progress
 
+3. Security - Third Party Applications
+* Threat Risk Assessment (required?)
+
 Governance
 (Insert details about the Open Management and use of this organization by public servants and collaborators)
 *Who?
@@ -33,6 +36,7 @@ Owner level:
 2 users at TBS (minimum)
 1.	Ashley Casovan
 2.	Sebastien Lemay
+3.  Guillaume Charest
 
 Member level – who can get or be granted this level of membership?
 (Criteria for granting members access, archiving members and inviting outside collaborators into the organization)
