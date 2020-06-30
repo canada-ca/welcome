@@ -37,3 +37,5 @@
 [Federal Geospatial Platform Visualiser - Visualisateur pour la plate-forme géospatiale fédérale](https://github.com/fgpv-vpgf)
 
 [Employment and Social Development Canada - Emploi et Développement social Canada](https://github.com/esdc-edsc)
+
+[National CJCR Support Group - IT SMC](https://github.com/cadets-ca)
