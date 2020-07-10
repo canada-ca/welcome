@@ -6,11 +6,11 @@
 
 [Apogy - Canadian Space Agency - Agence spatiale canadienne](https://bitbucket.org/apogy/)
 
-[Canadian Digital Service - Le Service numérique Canadien] (https://github.com/cds-snc)
+[Canadian Digital Service - Le Service numérique Canadien](https://github.com/cds-snc)
 
-[Canadian Institutes for Health Research - Instituts de recherche en santé du Canada] (https://github.com/cihr)
+[Canadian Institutes for Health Research - Instituts de recherche en santé du Canada](https://github.com/cihr)
 
-[Center for Special Business Projects / Centre des Projets Spéciaux sur les entreprises] (https://github.com/csbp-cpse)
+[Center for Special Business Projects / Centre des Projets Spéciaux sur les entreprises](https://github.com/csbp-cpse)
 
 [Communications Security Establishment - Centre de la sécurité des télécommunications](https://github.com/communicationssecurityestablishment)
 
