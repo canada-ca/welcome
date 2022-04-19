@@ -15,7 +15,7 @@ be private citizens. We welcome everyone’s participation.
 You are invited to participate in the Canadian official
 language of your choice (English or French).
 
-Interested in other Canadian Government projects on GitHub? Check out the [growing list](https://government.github.com/community/#canada).
+Interested in other Canadian Government projects on GitHub? Check out the [growing list](https://government.github.com/community/#governments-canada).
 
 The Government of Canada's Policy on Acceptable Network and Device Use: (https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122)
 
@@ -37,6 +37,6 @@ gouvernement ou sont des particuliers. La participation de tous est appréciée.
 Vous pouvez participer dans l’une ou l’autre des langues officielle s du Canada (le
 français et l’anglais).
 
-Vous vous intéressez à d'autres projets du gouvernement canadien dans GitHub? Consultez [la list](https://government.github.com/community/#canada).
+Vous vous intéressez à d'autres projets du gouvernement canadien dans GitHub? Consultez [la list](https://government.github.com/community/#governments-canada).
 
 Le Gouvernment du Canada's Politique sur l'utilisation acceptable des dispositifs et des réseaux: (https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27122)
